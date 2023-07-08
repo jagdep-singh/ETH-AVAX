@@ -1,0 +1,21 @@
+.walletCard {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  text-align: center;
+  background-color: black;
+  color: blanchedalmond;
+}
+
+.walletCard button {
+  margin: 10px;
+}
+
+.accountDisplay {
+  margin: 10px;
+}
+
+.balanceDisplay {
+  margin: 10px;
+}
