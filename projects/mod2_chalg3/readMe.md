@@ -8,3 +8,6 @@ This is a simple code in React that allows users to connect their MetaMask walle
 - Display account address
 - Display account balance
 
+## Usage
+
+- replace it with your src/app.css, and src/app.js in your react directory.
