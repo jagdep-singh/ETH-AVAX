@@ -1,6 +1,6 @@
-# My Wallet App
+# MetaMask 
 
-This is a simple React application that allows users to connect their MetaMask wallet and view their account address and balance.
+This is a simple code in React that allows users to connect their MetaMask wallet and view their account address and balance.
 
 ## Features
 
