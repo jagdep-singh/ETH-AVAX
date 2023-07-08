@@ -1,11 +1,10 @@
 # ErrorHandlingContract
 
-ErrorHandlingContract is a Solidity smart contract that demonstrates error handling mechanisms using `require()`, `assert()`, and `revert()` statements. 
-It provides a counter variable that can be incremented by a specified amount, with various error checks in place to ensure valid operations.
+ErrorHandlingContract is a Solidity smart contract that demonstrates error handling mechanisms using `require()`, `assert()`, and `revert()` statements. It provides a counter variable that can be incremented by a specified amount, with various error checks in place to ensure valid operations.
 
 ## Getting Started
 
-To use and interact with the ErrorHandlingContract, you will need a Solidity development environment or an online Solidity IDE such as Remix, Ethereum Studio, Truffle, or Hardhat.
+To use and interact with the ErrorHandlingContract, you will need a Solidity development environment.
 
 ### Prerequisites
 
@@ -38,9 +37,4 @@ Returns the current value of the counter.
 
 - Return Value:
   - `uint`: The current value of the counter.
-
-## Usage 
-
-The following code demonstrates how to handle errors in smart contracts.
-
 
