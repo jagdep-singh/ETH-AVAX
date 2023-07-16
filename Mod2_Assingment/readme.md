@@ -18,9 +18,9 @@ To run the application and interact with the token contract, you will need the f
 
 1. Install and start React local host
   run:
-   - "npx create-react-app your-app-name"
-   - "cd your-app-name"
-   - "npm start"
+   - `npx create-react-app your-app-name`
+   - `cd your-app-name`
+   - `npm start`
 2. Access the application in your browser at `http://localhost:3000`.
 3. Add the token.json into your src file.
 4. Replace your App.js and App.css file with the one here.
