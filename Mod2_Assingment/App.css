@@ -1,0 +1,68 @@
+body{
+  background-color: rgb(44, 51, 51);
+}
+      
+.content {
+  border-radius: 15px;
+  color: rgb(203, 228, 222);
+  background-color: rgb(46, 79, 79);
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  padding-left: 100px;
+  padding-right: 100px;
+  text-align: center;
+}
+      
+.title {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+      
+.account {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+      
+.input-section {
+  margin-bottom: 20px;
+}
+      
+.input-label {
+  display: block;
+  margin-bottom: 5px;
+  font-size: 16px;
+}
+      
+.input-field {
+  padding: 5px 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+      
+.action-button,
+.fetch-button,
+.connect-button {
+  margin-left: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(17, 155, 160);
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+      
+.action-button:hover,
+.fetch-button:hover,
+.connect-button:hover {
+  background-color: rgb(14, 131, 136);
+}
+      
+.balance {
+  font-size: 18px;
+  margin-top: 20px;
+}
+      
