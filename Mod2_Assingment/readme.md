@@ -4,7 +4,7 @@ This repository contains code samples for a token minting and burning applicatio
 
 - `App.css`: The CSS file that provides styles for the user interface of the application.
 - `App.js`: The main React component that implements the front-end logic and user interface.
-- `token.sol`: The Solidity smart contract that represents the token and includes minting and burning functionality.
+- `contract.sol`: The Solidity smart contract that represents the token and includes minting and burning functionality.
 - `token.json`: The JSON file that contains the ABI (Application Binary Interface) and deployment information for the token contract.
 
 ## Prerequisites
@@ -22,8 +22,9 @@ To run the application and interact with the token contract, you will need the f
    - `cd your-app-name`
    - `npm start`
 2. Access the application in your browser at `http://localhost:3000`.
-3. Add the token.json into your src file.
-4. Replace your App.js and App.css file with the one here.
+3. Add the `token.json` into your src file.
+4. Replace your `App.js` and `App.css` file with the one here.
+5. Deploy `contract.sol` contract and replace the `address` in `token.json` with the Contract Address.
 
 ## Usage
 
@@ -35,7 +36,7 @@ To run the application and interact with the token contract, you will need the f
 
 ## Smart Contract
 
-The `token.sol` file contains a basic Solidity smart contract that represents a token. It includes functions for minting and burning tokens. The contract keeps track of token balances using a mapping.
+The `contract.sol` file contains a basic Solidity smart contract that represents a token. It includes functions for minting and burning tokens. The contract keeps track of token balances using a mapping.
 
 ## License
 
